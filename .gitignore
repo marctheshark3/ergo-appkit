@@ -1,3 +1,5 @@
+.env
+
 *.toc
 *.aux
 *.log
@@ -47,3 +49,5 @@ spam-tests/
 .metals/
 project/metals.sbt
 .vscode
+# Environment variables with secrets
+.env
